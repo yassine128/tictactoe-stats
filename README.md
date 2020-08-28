@@ -5,5 +5,5 @@
     3. ``Ìn Cmd: pip install -r requirements.txt``
     4. ``python tictactoe.py``
   
-2. Screenshots of the software:
-    ![GitHub Logo](/screenshots/image1.PNG)
+2. Screenshots of the software: </br>
+![GitHub Logo](/screenshots/image1.PNG)
