@@ -7,3 +7,7 @@
   
 2. Screenshots of the software: </br>
 ![GitHub Logo](/screenshots/image1.PNG)
+![GitHub Logo](/screenshots/image2.PNG)
+![GitHub Logo](/screenshots/image3.PNG)
+![GitHub Logo](/screenshots/image4.PNG)
+![GitHub Logo](/screenshots/image5.PNG)
