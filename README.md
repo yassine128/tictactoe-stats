@@ -6,4 +6,4 @@
     4. ``python tictactoe.py``
   
 2. Screenshots of the software:
-    
+    ![GitHub Logo](/screenshots/image1.PNG)
