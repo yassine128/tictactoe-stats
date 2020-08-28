@@ -129,6 +129,7 @@ def simulation():
 def tie():
     if 0 not in grid:
         print("Game ended! It's a tie :(")
+        time.sleep(10)
         sys.exit()
 
 def printboard():
@@ -151,6 +152,7 @@ def checkwinner():
     
     if sum(grid[:3]) == 3 or sum(grid[3:6]) ==3 or sum(grid[6:9]) == 3:
         print("X WON")
+        time.sleep(10)
         sys.exit()
         v50 = 1
     elif c1 == 3 or c2 == 3 or c3 ==3:
@@ -159,19 +161,23 @@ def checkwinner():
         v50 = 1
     elif d1 == 3 or d2 == 3:
         print("X WON")
+        time.sleep(10)
         sys.exit()
         v50 = 1
     if sum(grid[:3]) == 12 or sum(grid[3:6]) ==12 or sum(grid[6:9]) == 12:
         print("O WON")
+        time.sleep(10)
         sys.exit()
         v50 = 1
     elif c1 == 12 or c2 == 12 or c3 ==12:
         print("O WON")
         sys.exit()
+        time.sleep(10)
         v50 = 1
     elif d1 == 12 or d2 == 12:
         print("O WON")
         sys.exit()
+        time.sleep(10)
         v50 = 1
 
 v2 = 0
