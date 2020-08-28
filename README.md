@@ -5,4 +5,5 @@
     3. ``Ìn Cmd: pip install -r requirements.txt``
     4. ``python tictactoe.py``
   
-
+2. Screenshots of the software:
+    
