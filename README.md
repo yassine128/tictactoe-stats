@@ -6,8 +6,8 @@
     4. ``python tictactoe.py``
   
 2. Screenshots of the software: </br>
-![GitHub Logo](/screenshots/image1.PNG)
-![GitHub Logo](/screenshots/image2.PNG)
-![GitHub Logo](/screenshots/image3.PNG)
-![GitHub Logo](/screenshots/image4.PNG)
-![GitHub Logo](/screenshots/image5.PNG)
+![GitHub Logo](/screenshots/image1.PNG)</br>
+![GitHub Logo](/screenshots/image2.PNG)</br>
+![GitHub Logo](/screenshots/image3.PNG)</br>
+![GitHub Logo](/screenshots/image4.PNG)</br>
+![GitHub Logo](/screenshots/image5.PNG)</br>
