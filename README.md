@@ -2,7 +2,7 @@
 1. How to install:
     1. ``git clone the code``
     2. ``navigate to the directory``
-    3. ``Ìn Cmd: pip install -r requirements.txt``
+    3. ``In Cmd: pip install -r requirements.txt``
     4. ``python tictactoe.py``
 
 2. Screenshots of the software: </br>
